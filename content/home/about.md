@@ -28,6 +28,6 @@ weight = 5
 
 I am an undergraduate engineering student at [National Institute of Technology Srinagar](www.nitsri.net). I am majoring
 in Information Technology. I was a vistiting student at the [Visual Computing Center](https://vcc.kaust.edu.sa/)  of 
-the wonderful [King Abdullah University of Science and Technology](https://kaust.edu.sa/)where I worked with 
+the wonderful [King Abdullah University of Science and Technology](https://kaust.edu.sa/) where I worked with 
 [Prof. Ganesh Sundaramoorthi](https://sites.google.com/site/ganeshsun/). I am broadly interested in the field of 
 Machine Learning and its applications in Computer Vision.
